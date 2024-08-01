@@ -641,3 +641,273 @@ body {
     margin-left: 18.5%;
 }
 
+/* Responsive styles */
+@media (max-width: 1200px) {
+    .logo, .head a {
+        font-size: 14px;
+    }
+
+    .text {
+        font-size: 35px;
+    }
+
+    .text1 {
+        font-size: 28px;
+    }
+
+    .text2 {
+        font-size: 18px;
+    }
+
+    .textpm {
+        font-size: 60px;
+    }
+
+    .textpm1 {
+        font-size: 20px;
+    }
+
+    .protext {
+        font-size: 30px;
+    }
+
+    .mact {
+        font-size: 45px;
+    }
+
+    .mac1text {
+        font-size: 15px;
+    }
+
+    .mac1text1 {
+        font-size: 25px;
+    }
+
+    .mac2text {
+        font-size: 19px;
+    }
+
+    .logtext {
+        font-size: 18px;
+    }
+
+    .ACT1, .appletrade1 {
+        font-size: 18px;
+    }
+
+    .lasttext, .lasttext1, .lasttext2, .lasttext3, .lasttext4, .lasttext5, .lasttext6, .lasttext7, .lasttext8, .lasttext9, .lasttext10, .lasttext11, #lastt1, #lastt2, #last3 {
+        font-size: 11px;
+    }
+}
+
+@media (max-width: 992px) {
+    .logo, .head a {
+        font-size: 12px;
+    }
+
+    .text {
+        font-size: 30px;
+    }
+
+    .text1 {
+        font-size: 25px;
+    }
+
+    .text2 {
+        font-size: 16px;
+    }
+
+    .textpm {
+        font-size: 50px;
+    }
+
+    .textpm1 {
+        font-size: 18px;
+    }
+
+    .protext {
+        font-size: 25px;
+    }
+
+    .mact {
+        font-size: 40px;
+    }
+
+    .mac1text {
+        font-size: 13px;
+    }
+
+    .mac1text1 {
+        font-size: 23px;
+    }
+
+    .mac2text {
+        font-size: 17px;
+    }
+
+    .logtext {
+        font-size: 16px;
+    }
+
+    .ACT1, .appletrade1 {
+        font-size: 16px;
+    }
+
+    .lasttext, .lasttext1, .lasttext2, .lasttext3, .lasttext4, .lasttext5, .lasttext6, .lasttext7, .lasttext8, .lasttext9, .lasttext10, .lasttext11, #lastt1, #lastt2, #last3 {
+        font-size: 10px;
+    }
+
+    .watch, .mac, .card, .case1 {
+        flex-direction: column;
+    }
+
+    .iwatch, .Iwatch, .mac1, .mac2, .card1, .trade {
+        width: 100%;
+    }
+}
+
+@media (max-width: 768px) {
+    .logo, .head a {
+        font-size: 10px;
+    }
+
+    .text {
+        font-size: 25px;
+    }
+
+    .text1 {
+        font-size: 22px;
+    }
+
+    .text2 {
+        font-size: 14px;
+    }
+
+    .textpm {
+        font-size: 40px;
+    }
+
+    .textpm1 {
+        font-size: 16px;
+    }
+
+    .protext {
+        font-size: 20px;
+    }
+
+    .mact {
+        font-size: 35px;
+    }
+
+    .mac1text {
+        font-size: 11px;
+    }
+
+    .mac1text1 {
+        font-size: 20px;
+    }
+
+    .mac2text {
+        font-size: 15px;
+    }
+
+    .logtext {
+        font-size: 14px;
+    }
+
+    .ACT1, .appletrade1 {
+        font-size: 14px;
+    }
+
+    .lasttext, .lasttext1, .lasttext2, .lasttext3, .lasttext4, .lasttext5, .lasttext6, .lasttext7, .lasttext8, .lasttext9, .lasttext10, .lasttext11, #lastt1, #lastt2, #last3 {
+        font-size: 9px;
+    }
+
+    .head {
+        flex-direction: column;
+    }
+
+    .list {
+        margin-left: 0;
+        text-align: center;
+    }
+
+    .sec2, .pro, .iwatch, .Iwatch, .mac1, .mac2, .card1, .trade {
+        height: auto;
+    }
+
+    .pm img {
+        width: 100%;
+    }
+}
+
+@media (max-width: 576px) {
+    .logo, .head a {
+        font-size: 8px;
+    }
+
+    .text {
+        font-size: 20px;
+    }
+
+    .text1 {
+        font-size: 18px;
+    }
+
+    .text2 {
+        font-size: 12px;
+    }
+
+    .textpm {
+        font-size: 30px;
+    }
+
+    .textpm1 {
+        font-size: 14px;
+    }
+
+    .protext {
+        font-size: 18px;
+    }
+
+    .mact {
+        font-size: 30px;
+    }
+
+    .mac1text {
+        font-size: 9px;
+    }
+
+    .mac1text1 {
+        font-size: 18px;
+    }
+
+    .mac2text {
+        font-size: 13px;
+    }
+
+    .logtext {
+        font-size: 12px;
+    }
+
+    .ACT1, .appletrade1 {
+        font-size: 12px;
+    }
+
+    .lasttext, .lasttext1, .lasttext2, .lasttext3, .lasttext4, .lasttext5, .lasttext6, .lasttext7, .lasttext8, .lasttext9, .lasttext10, .lasttext11, #lastt1, #lastt2, #last3 {
+        font-size: 8px;
+    }
+
+    .sec2, .pro, .iwatch, .Iwatch, .mac1, .mac2, .card1, .trade {
+        height: auto;
+    }
+
+    .pm img {
+        width: 100%;
+    }
+
+    .watch, .mac, .card, .case1 {
+        flex-direction: column;
+    }
+}
+

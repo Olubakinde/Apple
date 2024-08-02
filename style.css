@@ -643,6 +643,9 @@ body {
 
 /* Responsive styles */
 @media (max-width: 1200px) {
+    .image {
+        width: 300px;
+    }
     .logo, .head a {
         font-size: 14px;
     }
